@@ -153,13 +153,11 @@ Safe JSON extraction from model output
 Modular architecture (each agent independently extensible)
 
 UI + AI + orchestration integrated end-to-end
-
 📂 How to Run
-git clone https://github.com/your-username/insurance-claim-validator.git
-cd insurance-claim-validator
-pip install -r requirements.txt
+git clone https://github.com/LikhithaThirumalsetty/insurance-claim-validator.git 
+cd insurance-claim-validator 
+pip install -r requirements.txt 
 streamlit run app.py
-
 
 Then enter your Gemini API key inside the UI.
 
